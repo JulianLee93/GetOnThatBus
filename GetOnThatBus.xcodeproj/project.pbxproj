@@ -13,6 +13,8 @@
 		B9ECFCFC1C61545E0061ABB1 /* GetOnThatBus.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B9ECFCFA1C61545E0061ABB1 /* GetOnThatBus.xcdatamodeld */; };
 		B9ECFCFE1C61545E0061ABB1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9ECFCFD1C61545E0061ABB1 /* Assets.xcassets */; };
 		B9ECFD011C61545E0061ABB1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9ECFCFF1C61545E0061ABB1 /* LaunchScreen.storyboard */; };
+		B9ECFD091C6154900061ABB1 /* bus.json in Resources */ = {isa = PBXBuildFile; fileRef = B9ECFD081C6154900061ABB1 /* bus.json */; };
+		B9ECFD0B1C616ABB0061ABB1 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9ECFD0A1C616ABB0061ABB1 /* MapKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		B9ECFCFD1C61545E0061ABB1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B9ECFD001C61545E0061ABB1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B9ECFD021C61545E0061ABB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B9ECFD081C6154900061ABB1 /* bus.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = bus.json; sourceTree = "<group>"; };
+		B9ECFD0A1C616ABB0061ABB1 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +35,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B9ECFD0B1C616ABB0061ABB1 /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +45,7 @@
 		B9ECFCE71C61545E0061ABB1 = {
 			isa = PBXGroup;
 			children = (
+				B9ECFD0A1C616ABB0061ABB1 /* MapKit.framework */,
 				B9ECFCF21C61545E0061ABB1 /* GetOnThatBus */,
 				B9ECFCF11C61545E0061ABB1 /* Products */,
 			);
@@ -63,6 +69,7 @@
 				B9ECFCFF1C61545E0061ABB1 /* LaunchScreen.storyboard */,
 				B9ECFD021C61545E0061ABB1 /* Info.plist */,
 				B9ECFCFA1C61545E0061ABB1 /* GetOnThatBus.xcdatamodeld */,
+				B9ECFD081C6154900061ABB1 /* bus.json */,
 			);
 			path = GetOnThatBus;
 			sourceTree = "<group>";
@@ -128,6 +135,7 @@
 			files = (
 				B9ECFD011C61545E0061ABB1 /* LaunchScreen.storyboard in Resources */,
 				B9ECFCFE1C61545E0061ABB1 /* Assets.xcassets in Resources */,
+				B9ECFD091C6154900061ABB1 /* bus.json in Resources */,
 				B9ECFCF91C61545E0061ABB1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

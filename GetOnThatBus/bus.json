@@ -1,0 +1,2763 @@
+{
+	"row": [
+		{
+			"_id": "152",
+			"_uuid": "36690D24-2936-473C-9271-7B42B4EFEF13",
+			"_position": "152",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/152",
+			"stop_id": "69",
+			"cta_stop_name": "Jackson & Financial",
+			"direction": "EB",
+			"routes": "1,7,X28,126,129,130,132,151",
+			"ward": "2",
+			"longitude": "-87.6329",
+			"latitude": "41.87808499",
+			"location": {
+				"latitude": "41.87808499",
+				"longitude": "-87.6329",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "6",
+			"_uuid": "DC917F5F-B7E5-41EE-B3F8-44831BA5A77F",
+			"_position": "6",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/6",
+			"stop_id": "73",
+			"cta_stop_name": "Michigan & Van Buren/Congress",
+			"direction": "SB",
+			"routes": "1,3,4,7,14,26,X28,126,129,132,143,147,148",
+			"inter_modal": "Metra",
+			"ward": "2",
+			"longitude": "-87.6243133",
+			"latitude": "41.8764915",
+			"location": {
+				"latitude": "41.8764915",
+				"longitude": "-87.6243133",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "11",
+			"_uuid": "EBC58162-4602-4530-96F0-D5BE30EC7975",
+			"_position": "11",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/11",
+			"stop_id": "76",
+			"cta_stop_name": "Michigan & Jackson",
+			"direction": "NB",
+			"routes": "3,4,6,14,26,143",
+			"inter_modal": "Metra",
+			"ward": "2",
+			"longitude": "-87.6241283",
+			"latitude": "41.8781183",
+			"location": {
+				"latitude": "41.8781183",
+				"longitude": "-87.6241283",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "60",
+			"_uuid": "7CF2BE6E-E315-4465-952C-217652EE103F",
+			"_position": "60",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/60",
+			"stop_id": "358",
+			"cta_stop_name": "Roosevelt & Homan",
+			"direction": "WB",
+			"routes": "12",
+			"ward": "24",
+			"longitude": "-87.710405",
+			"latitude": "41.8664517",
+			"location": {
+				"latitude": "41.8664517",
+				"longitude": "-87.710405",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "80",
+			"_uuid": "747B8172-B8F0-4FDD-956C-B338396AC08E",
+			"_position": "80",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/80",
+			"stop_id": "409",
+			"cta_stop_name": "Madison & Pulaski",
+			"direction": "EB",
+			"routes": "20",
+			"ward": "28",
+			"longitude": "-87.72579",
+			"latitude": "41.8806767",
+			"location": {
+				"latitude": "41.8806767",
+				"longitude": "-87.72579",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "129",
+			"_uuid": "18D1A2C3-78E4-4C51-8773-45A6E8AEF829",
+			"_position": "129",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/129",
+			"stop_id": "455",
+			"cta_stop_name": "Madison & Clinton",
+			"direction": "WB",
+			"routes": "14,19,20,56,192",
+			"inter_modal": "Metra",
+			"ward": "42",
+			"longitude": "-87.6409225",
+			"latitude": "41.8819542",
+			"location": {
+				"latitude": "41.8819542",
+				"longitude": "-87.6409225",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "76",
+			"_uuid": "8C1113C0-7933-4371-B66B-4496D1577DD2",
+			"_position": "76",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/76",
+			"stop_id": "465",
+			"cta_stop_name": "Madison & Ashland",
+			"direction": "WB",
+			"routes": "20",
+			"ward": "27",
+			"longitude": "-87.666695",
+			"latitude": "41.88152",
+			"location": {
+				"latitude": "41.88152",
+				"longitude": "-87.666695",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "84",
+			"_uuid": "DE3ABD4A-40EF-4BD7-995B-20AA6F3BD3CA",
+			"_position": "84",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/84",
+			"stop_id": "523",
+			"cta_stop_name": "Chicago & Cicero",
+			"direction": "EB",
+			"routes": "66",
+			"ward": "28",
+			"longitude": "-87.7459767",
+			"latitude": "41.8948783",
+			"location": {
+				"latitude": "41.8948783",
+				"longitude": "-87.7459767",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "81",
+			"_uuid": "F977FF46-0EA7-483F-8A29-501ECA0BD2B2",
+			"_position": "81",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/81",
+			"stop_id": "530",
+			"cta_stop_name": "Chicago & Pulaski",
+			"direction": "EB",
+			"routes": "66",
+			"ward": "28",
+			"longitude": "-87.72622",
+			"latitude": "41.8952517",
+			"location": {
+				"latitude": "41.8952517",
+				"longitude": "-87.72622",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "3",
+			"_uuid": "B07D0391-5BD6-4FE0-8506-C919718F2989",
+			"_position": "3",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/3",
+			"stop_id": "548",
+			"cta_stop_name": "Chicago & Western",
+			"direction": "EB",
+			"routes": "66",
+			"ward": "1",
+			"longitude": "-87.6870083",
+			"latitude": "41.895745",
+			"location": {
+				"latitude": "41.895745",
+				"longitude": "-87.6870083",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "2",
+			"_uuid": "16D5128E-7274-4583-8DCD-1F6838B8468D",
+			"_position": "2",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/2",
+			"stop_id": "552",
+			"cta_stop_name": "Chicago & Damen",
+			"direction": "EB",
+			"routes": "66",
+			"ward": "1",
+			"longitude": "-87.6772167",
+			"latitude": "41.8958883",
+			"location": {
+				"latitude": "41.8958883",
+				"longitude": "-87.6772167",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "4",
+			"_uuid": "42DB429E-3B15-4395-8B96-7A7A21B5696E",
+			"_position": "4",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/4",
+			"stop_id": "556",
+			"cta_stop_name": "Chicago & Ashland",
+			"direction": "EB",
+			"routes": "66",
+			"ward": "1",
+			"longitude": "-87.66749",
+			"latitude": "41.896095",
+			"location": {
+				"latitude": "41.896095",
+				"longitude": "-87.66749",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "125",
+			"_uuid": "16AC7E22-3E41-4238-85CB-004BB002B46C",
+			"_position": "125",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/125",
+			"stop_id": "599",
+			"cta_stop_name": "Chicago & Michigan",
+			"direction": "WB",
+			"routes": "66",
+			"ward": "42",
+			"longitude": "-87.6248017",
+			"latitude": "41.896801",
+			"location": {
+				"latitude": "41.896801",
+				"longitude": "-87.6248017",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "124",
+			"_uuid": "9505571E-0109-4314-90DC-AE046F6639B2",
+			"_position": "124",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/124",
+			"stop_id": "601",
+			"cta_stop_name": "Chicago & State (Red Line)",
+			"direction": "WB",
+			"routes": "66",
+			"ward": "42",
+			"longitude": "-87.6278458",
+			"latitude": "41.8966942",
+			"location": {
+				"latitude": "41.8966942",
+				"longitude": "-87.6278458",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "69",
+			"_uuid": "7B3EAF01-341E-4E43-AED8-14ED1DEEAB06",
+			"_position": "69",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/69",
+			"stop_id": "606",
+			"cta_stop_name": "Chicago & Franklin (Brown Line)",
+			"direction": "WB",
+			"routes": "66",
+			"ward": "27",
+			"longitude": "-87.6356048",
+			"latitude": "41.8965988",
+			"location": {
+				"latitude": "41.8965988",
+				"longitude": "-87.6356048",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "68",
+			"_uuid": "1D9C3306-5CE0-4500-822D-8993962C5B85",
+			"_position": "68",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/68",
+			"stop_id": "617",
+			"cta_stop_name": "Chicago Blue Line Station",
+			"direction": "WB",
+			"routes": "66",
+			"ward": "27",
+			"longitude": "-87.6551067",
+			"latitude": "41.8963333",
+			"location": {
+				"latitude": "41.8963333",
+				"longitude": "-87.6551067",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "72",
+			"_uuid": "FEED02EF-9F99-401C-B72E-D249520D5479",
+			"_position": "72",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/72",
+			"stop_id": "648",
+			"cta_stop_name": "Chicago & Pulaski",
+			"direction": "WB",
+			"routes": "66",
+			"ward": "27",
+			"longitude": "-87.7259183",
+			"latitude": "41.8954033",
+			"location": {
+				"latitude": "41.8954033",
+				"longitude": "-87.7259183",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "103",
+			"_uuid": "45960589-21B6-4233-AC4B-5A80C5E32F19",
+			"_position": "103",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/103",
+			"stop_id": "672",
+			"cta_stop_name": "Grand & Oak Park",
+			"direction": "EB",
+			"routes": "65, 74",
+			"inter_modal": "Pace",
+			"ward": "36",
+			"longitude": "-87.7955833",
+			"latitude": "41.9236233",
+			"location": {
+				"latitude": "41.9236233",
+				"longitude": "-87.7955833",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "70",
+			"_uuid": "A465D321-F9F9-485A-88E3-C9E316793CDF",
+			"_position": "70",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/70",
+			"stop_id": "738",
+			"cta_stop_name": "Grand & Halsted/Milwaukee (Blue Line)",
+			"direction": "EB",
+			"routes": "33,65",
+			"ward": "27",
+			"longitude": "-87.647765",
+			"latitude": "41.8911517",
+			"location": {
+				"latitude": "41.8911517",
+				"longitude": "-87.647765",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "148",
+			"_uuid": "22826ECB-D0B2-4830-ABCA-9F5B8734F505",
+			"_position": "148",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/148",
+			"stop_id": "1023",
+			"cta_stop_name": "Sheridan & Pratt",
+			"direction": "SB",
+			"routes": "147,151,155",
+			"ward": "49",
+			"longitude": "-87.6609083",
+			"latitude": "42.0052267",
+			"location": {
+				"latitude": "42.0052267",
+				"longitude": "-87.6609083",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "147",
+			"_uuid": "4981A7B9-7267-4124-A203-9CAC4E5DDECB",
+			"_position": "147",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/147",
+			"stop_id": "1027",
+			"cta_stop_name": "Sheridan & Loyola (Red Line)",
+			"direction": "SB",
+			"routes": "147,151,155",
+			"ward": "49",
+			"longitude": "-87.6606867",
+			"latitude": "42.001285",
+			"location": {
+				"latitude": "42.001285",
+				"longitude": "-87.6606867",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "146",
+			"_uuid": "2F1DF14D-BFE8-4C09-A9AB-C0B2ACAD32B4",
+			"_position": "146",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/146",
+			"stop_id": "1036",
+			"cta_stop_name": "Sheridan & Ardmore",
+			"direction": "SB",
+			"routes": "136,147,151",
+			"ward": "48",
+			"longitude": "-87.655235",
+			"latitude": "41.9875683",
+			"location": {
+				"latitude": "41.9875683",
+				"longitude": "-87.655235",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "145",
+			"_uuid": "FC365BEC-0217-43AE-86A0-C740236D0684",
+			"_position": "145",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/145",
+			"stop_id": "1038",
+			"cta_stop_name": "Sheridan & Bryn Mawr",
+			"direction": "SB",
+			"routes": "136,147,151",
+			"ward": "48",
+			"longitude": "-87.655235",
+			"latitude": "41.9835011",
+			"location": {
+				"latitude": "41.9835011",
+				"longitude": "-87.655235",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "142",
+			"_uuid": "8D34F0AF-2E91-4DA0-A187-19F6F19E35BB",
+			"_position": "142",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/142",
+			"stop_id": "1061",
+			"cta_stop_name": "Lake Shore & Grace",
+			"direction": "SB",
+			"routes": "135,145,146,151,152",
+			"ward": "46",
+			"longitude": "-87.6450118",
+			"latitude": "41.9521293",
+			"location": {
+				"latitude": "41.9521293",
+				"longitude": "-87.6450118",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "141",
+			"_uuid": "6842FB09-8B73-4F31-8E6A-AE316979EF57",
+			"_position": "141",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/141",
+			"stop_id": "1063",
+			"cta_stop_name": "Lake Shore & Addison",
+			"direction": "SB",
+			"routes": "135,145,146,151",
+			"ward": "46",
+			"longitude": "-87.6432983",
+			"latitude": "41.9483633",
+			"location": {
+				"latitude": "41.9483633",
+				"longitude": "-87.6432983",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "138",
+			"_uuid": "BF134145-C533-4025-B3B3-1CCFEC879655",
+			"_position": "138",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/138",
+			"stop_id": "1077",
+			"cta_stop_name": "Sheridan & Diversey",
+			"direction": "SB",
+			"routes": "134,143,151,156",
+			"ward": "44",
+			"longitude": "-87.6393083",
+			"latitude": "41.9332",
+			"location": {
+				"latitude": "41.9332",
+				"longitude": "-87.6393083",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "135",
+			"_uuid": "98C7A330-F50B-44ED-94C4-67C451AFAEA4",
+			"_position": "135",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/135",
+			"stop_id": "1078",
+			"cta_stop_name": "Stockton & Wrightwood",
+			"direction": "SB",
+			"routes": "134,143,151,156",
+			"ward": "43",
+			"longitude": "-87.639165",
+			"latitude": "41.931405",
+			"location": {
+				"latitude": "41.931405",
+				"longitude": "-87.639165",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "136",
+			"_uuid": "89E08398-8EC6-4986-9806-D08751AB81C4",
+			"_position": "136",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/136",
+			"stop_id": "1082",
+			"cta_stop_name": "Stockton & Webster",
+			"direction": "SB",
+			"routes": "151,156",
+			"ward": "43",
+			"longitude": "-87.6359067",
+			"latitude": "41.9224",
+			"location": {
+				"latitude": "41.9224",
+				"longitude": "-87.6359067",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "128",
+			"_uuid": "05D85E66-7790-4DE5-BD4F-4374829A62EA",
+			"_position": "128",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/128",
+			"stop_id": "1102",
+			"cta_stop_name": "Michigan & Illinois",
+			"direction": "SB",
+			"routes": "2,3,10,26,143,144,145,146,147,148,151,157",
+			"ward": "42",
+			"longitude": "-87.6242273",
+			"latitude": "41.8911544",
+			"location": {
+				"latitude": "41.8911544",
+				"longitude": "-87.6242273",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "130",
+			"_uuid": "ACB71270-1C1B-4EDF-ACE3-DE15B5CF5D22",
+			"_position": "130",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/130",
+			"stop_id": "1103",
+			"cta_stop_name": "Michigan & Hubbard (Wrigley Bldg.)",
+			"direction": "SB",
+			"routes": "2,3,10,26,N66,143,144,145,146,147,148,151,157",
+			"ward": "42",
+			"longitude": "-87.6243057",
+			"latitude": "41.8898773",
+			"location": {
+				"latitude": "41.8898773",
+				"longitude": "-87.6243057",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "132",
+			"_uuid": "FDEBD99B-180E-45C7-A0F3-33DBD6F08C8F",
+			"_position": "132",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/132",
+			"stop_id": "1104",
+			"cta_stop_name": "Michigan & South Water",
+			"direction": "SB",
+			"routes": "3,26,N66,143,145,147,148,151,157",
+			"inter_modal": "Metra",
+			"ward": "42",
+			"longitude": "-87.6246036",
+			"latitude": "41.8870218",
+			"location": {
+				"latitude": "41.8870218",
+				"longitude": "-87.6246036",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "123",
+			"_uuid": "B471D204-DBFC-4544-8315-2350BE0915FE",
+			"_position": "123",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/123",
+			"stop_id": "1105",
+			"cta_stop_name": "Michigan & Lake/Randolph",
+			"direction": "SB",
+			"routes": "3,4,19,26,N66,124,143,145,147,148,151,157",
+			"inter_modal": "Metra",
+			"ward": "42",
+			"longitude": "-87.6244011",
+			"latitude": "41.8850803",
+			"location": {
+				"latitude": "41.8850803",
+				"longitude": "-87.6244011",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "117",
+			"_uuid": "87BCE090-7977-46FA-BC31-8A62F35D96A1",
+			"_position": "117",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/117",
+			"stop_id": "1106",
+			"cta_stop_name": "Michigan & Washington",
+			"direction": "SB",
+			"routes": "3,4,19,20,26,60,N66,124,143,145,147,148,151,157",
+			"inter_modal": "Metra",
+			"ward": "42",
+			"longitude": "-87.6244393",
+			"latitude": "41.8834763",
+			"location": {
+				"latitude": "41.8834763",
+				"longitude": "-87.6244393",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "121",
+			"_uuid": "37C3CB28-E847-4F77-8451-AB4BB5562312",
+			"_position": "121",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/121",
+			"stop_id": "1110",
+			"cta_stop_name": "Michigan & Jackson",
+			"direction": "SB",
+			"routes": "3,4,14,26,143,145,147,148",
+			"inter_modal": "Metra",
+			"ward": "42",
+			"longitude": "-87.6242675",
+			"latitude": "41.8784867",
+			"location": {
+				"latitude": "41.8784867",
+				"longitude": "-87.6242675",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "122",
+			"_uuid": "88F3577D-F117-47F6-B110-B016DDE47778",
+			"_position": "122",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/122",
+			"stop_id": "1119",
+			"cta_stop_name": "Michigan & Randolph",
+			"direction": "NB",
+			"routes": "3,6,19,20,26,N66,124,143,147,151,157",
+			"inter_modal": "Metra",
+			"ward": "42",
+			"longitude": "-87.6244281",
+			"latitude": "41.8851811",
+			"location": {
+				"latitude": "41.8851811",
+				"longitude": "-87.6244281",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "115",
+			"_uuid": "D4739A47-C593-4AF3-BBAD-5692FE45F610",
+			"_position": "115",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/115",
+			"stop_id": "1120",
+			"cta_stop_name": "Michigan & South Water",
+			"direction": "NB",
+			"routes": "3,6,20,26,N66,124,143,144,145,146,147,148,151,157",
+			"inter_modal": "Metra",
+			"ward": "42",
+			"longitude": "-87.6245017",
+			"latitude": "41.8866541",
+			"location": {
+				"latitude": "41.8866541",
+				"longitude": "-87.6245017",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "126",
+			"_uuid": "8F037903-605B-45FA-B378-C5D816015000",
+			"_position": "126",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/126",
+			"stop_id": "1122",
+			"cta_stop_name": "Michigan & Hubbard (Tribune Bldg.)",
+			"direction": "NB",
+			"routes": "2,3,10,26,N66,143,144,145,146,147,148,151,157",
+			"ward": "42",
+			"longitude": "-87.6241204",
+			"latitude": "41.8900983",
+			"location": {
+				"latitude": "41.8900983",
+				"longitude": "-87.6241204",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "134",
+			"_uuid": "5F03C9A6-EB65-48BC-8AD5-FF4B59D54042",
+			"_position": "134",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/134",
+			"stop_id": "1124",
+			"cta_stop_name": "Michigan & Ontario",
+			"direction": "NB",
+			"routes": "3,10,26,33,125,143,144,145,146,147,148,151",
+			"ward": "42",
+			"longitude": "-87.6242478",
+			"latitude": "41.8931564",
+			"location": {
+				"latitude": "41.8931564",
+				"longitude": "-87.6242478",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "118",
+			"_uuid": "ABEB9766-0897-4598-AAE0-CC3BEEB145C0",
+			"_position": "118",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/118",
+			"stop_id": "1125",
+			"cta_stop_name": "Michigan & Huron",
+			"direction": "NB",
+			"routes": "3,10,26,33,125,143,144,145,146,147,148,151",
+			"ward": "42",
+			"longitude": "-87.6242853",
+			"latitude": "41.8946525",
+			"location": {
+				"latitude": "41.8946525",
+				"longitude": "-87.6242853",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "116",
+			"_uuid": "B165747A-D6AB-468F-880F-8272965E5FD9",
+			"_position": "116",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/116",
+			"stop_id": "1127",
+			"cta_stop_name": "Michigan & Chestnut",
+			"direction": "NB",
+			"routes": "33,143,144,145,146,147,148,151",
+			"ward": "42",
+			"longitude": "-87.6242958",
+			"latitude": "41.8981133",
+			"location": {
+				"latitude": "41.8981133",
+				"longitude": "-87.6242958",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "119",
+			"_uuid": "A954B037-ACFE-4626-B2BA-8F4D175E4B43",
+			"_position": "119",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/119",
+			"stop_id": "1128",
+			"cta_stop_name": "Michigan & Delaware/Walton",
+			"direction": "NB",
+			"routes": "33,143,144,145,146,147,148,151",
+			"ward": "42",
+			"longitude": "-87.6240408",
+			"latitude": "41.8995492",
+			"location": {
+				"latitude": "41.8995492",
+				"longitude": "-87.6240408",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "92",
+			"_uuid": "909E4935-BCD2-42AA-A0C6-6F4F6C9B734E",
+			"_position": "92",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/92",
+			"stop_id": "1257",
+			"cta_stop_name": "Fullerton & Pulaski",
+			"direction": "WB",
+			"routes": "74",
+			"ward": "30",
+			"longitude": "-87.726665",
+			"latitude": "41.92457",
+			"location": {
+				"latitude": "41.92457",
+				"longitude": "-87.726665",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "21",
+			"_uuid": "099C530C-C0F5-428F-AD60-52B0235EFAD7",
+			"_position": "21",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/21",
+			"stop_id": "1517",
+			"cta_stop_name": "S Hyde Park & 56th Street",
+			"direction": "NB",
+			"routes": "6,X28,55",
+			"ward": "5",
+			"longitude": "-87.5838517",
+			"latitude": "41.7932725",
+			"location": {
+				"latitude": "41.7932725",
+				"longitude": "-87.5838517",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "7",
+			"_uuid": "997549F6-B647-4D06-94AB-E6B8AFB1E8D5",
+			"_position": "7",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/7",
+			"stop_id": "1591",
+			"cta_stop_name": "Michigan & Roosevelt",
+			"direction": "SB",
+			"routes": "1,3,4",
+			"ward": "2",
+			"longitude": "-87.62397",
+			"latitude": "41.8667617",
+			"location": {
+				"latitude": "41.8667617",
+				"longitude": "-87.62397",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "149",
+			"_uuid": "1C035744-08CD-43BA-A470-FD77FF4A03AD",
+			"_position": "149",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/149",
+			"stop_id": "1725",
+			"cta_stop_name": "Devon & California",
+			"direction": "EB",
+			"routes": "155",
+			"ward": "50",
+			"longitude": "-87.69993",
+			"latitude": "41.997565",
+			"location": {
+				"latitude": "41.997565",
+				"longitude": "-87.69993",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "112",
+			"_uuid": "08F9234A-9ABB-4D5E-B16D-E9039C1F817E",
+			"_position": "112",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/112",
+			"stop_id": "1757",
+			"cta_stop_name": "Devon & Sheridan",
+			"direction": "WB",
+			"routes": "36,151,155",
+			"ward": "40",
+			"longitude": "-87.6610992",
+			"latitude": "41.9982525",
+			"location": {
+				"latitude": "41.9982525",
+				"longitude": "-87.6610992",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "23",
+			"_uuid": "46436E69-4CB7-44DA-A327-4B9F1D9039EF",
+			"_position": "23",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/23",
+			"stop_id": "2121",
+			"cta_stop_name": "King Drive & 79th Street",
+			"direction": "NB",
+			"routes": "3",
+			"ward": "6",
+			"longitude": "-87.6148467",
+			"latitude": "41.75139",
+			"location": {
+				"latitude": "41.75139",
+				"longitude": "-87.6148467",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "15",
+			"_uuid": "9BB636D0-47AC-44CF-A3F1-F5B8C371CF08",
+			"_position": "15",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/15",
+			"stop_id": "2192",
+			"cta_stop_name": "McCormick Place",
+			"direction": "SB",
+			"routes": "3,21,129",
+			"ward": "2",
+			"longitude": "-87.61909",
+			"latitude": "41.85105",
+			"location": {
+				"latitude": "41.85105",
+				"longitude": "-87.61909",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "17",
+			"_uuid": "72BD93A2-66A9-4B5D-815F-E77632AF7099",
+			"_position": "17",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/17",
+			"stop_id": "2218",
+			"cta_stop_name": "King Drive & 51st Street",
+			"direction": "SB",
+			"routes": "3",
+			"ward": "3",
+			"longitude": "-87.6161983",
+			"latitude": "41.80172",
+			"location": {
+				"latitude": "41.80172",
+				"longitude": "-87.6161983",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "27",
+			"_uuid": "36126122-86A7-4E04-89E1-C0952FDED104",
+			"_position": "27",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/27",
+			"stop_id": "2470",
+			"cta_stop_name": "Cottage Grove & 87th Street",
+			"direction": "NB",
+			"routes": "4",
+			"ward": "8",
+			"longitude": "-87.6047383",
+			"latitude": "41.7366167",
+			"location": {
+				"latitude": "41.7366167",
+				"longitude": "-87.6047383",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "26",
+			"_uuid": "21DC3738-3240-461A-8BEA-DC32B0827C6F",
+			"_position": "26",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/26",
+			"stop_id": "2478",
+			"cta_stop_name": "Cottage Grove & 79th Street",
+			"direction": "NB",
+			"routes": "4",
+			"ward": "8",
+			"longitude": "-87.605135",
+			"latitude": "41.751215",
+			"location": {
+				"latitude": "41.751215",
+				"longitude": "-87.605135",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "19",
+			"_uuid": "6811887A-C03A-41BE-B121-CF5789ADC947",
+			"_position": "19",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/19",
+			"stop_id": "2549",
+			"cta_stop_name": "Cottage Grove & 47th Street",
+			"direction": "SB",
+			"routes": "4",
+			"ward": "4",
+			"longitude": "-87.606645",
+			"latitude": "41.8096517",
+			"location": {
+				"latitude": "41.8096517",
+				"longitude": "-87.606645",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "51",
+			"_uuid": "83AF1CA4-9344-4BE5-BD5A-13B474857995",
+			"_position": "51",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/51",
+			"stop_id": "2566",
+			"cta_stop_name": "Cottage Grove & 63rd Street (Green Line)",
+			"direction": "SB",
+			"routes": "4",
+			"ward": "20",
+			"longitude": "-87.6059617",
+			"latitude": "41.7807483",
+			"location": {
+				"latitude": "41.7807483",
+				"longitude": "-87.6059617",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "25",
+			"_uuid": "6B8D95FF-8ACE-4B86-9198-DC35E21359E1",
+			"_position": "25",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/25",
+			"stop_id": "2608",
+			"cta_stop_name": "79th Street & Colfax",
+			"direction": "WB",
+			"routes": "79",
+			"ward": "7",
+			"longitude": "-87.561155",
+			"latitude": "41.7517717",
+			"location": {
+				"latitude": "41.7517717",
+				"longitude": "-87.561155",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "22",
+			"_uuid": "DAC94063-0713-4D3A-A26E-7681E2DF5EAE",
+			"_position": "22",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/22",
+			"stop_id": "2630",
+			"cta_stop_name": "79th Street & Cottage Grove",
+			"direction": "WB",
+			"routes": "79",
+			"ward": "6",
+			"longitude": "-87.605055",
+			"latitude": "41.75135",
+			"location": {
+				"latitude": "41.75135",
+				"longitude": "-87.605055",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "38",
+			"_uuid": "9ABE7131-69CC-4E45-85F1-ABDEE9DF5E71",
+			"_position": "38",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/38",
+			"stop_id": "2722",
+			"cta_stop_name": "79th Street & Kilpatrick",
+			"direction": "EB",
+			"routes": "79",
+			"ward": "13",
+			"longitude": "-87.7391417",
+			"latitude": "41.7489267",
+			"location": {
+				"latitude": "41.7489267",
+				"longitude": "-87.7391417",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "48",
+			"_uuid": "FBD33D5D-16CE-4725-9F21-6601BB5AB503",
+			"_position": "48",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/48",
+			"stop_id": "2737",
+			"cta_stop_name": "79th Street & Kedzie",
+			"direction": "EB",
+			"routes": "79",
+			"inter_modal": "Metra",
+			"ward": "18",
+			"longitude": "-87.702585",
+			"latitude": "41.7497367",
+			"location": {
+				"latitude": "41.7497367",
+				"longitude": "-87.702585",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "29",
+			"_uuid": "4A7884C5-EE29-4251-BAF5-7A9129FFE20F",
+			"_position": "29",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/29",
+			"stop_id": "2820",
+			"cta_stop_name": "95th Street & Cottage Grove",
+			"direction": "EB",
+			"routes": "100,111",
+			"ward": "9",
+			"longitude": "-87.6048333",
+			"latitude": "41.7220333",
+			"location": {
+				"latitude": "41.7220333",
+				"longitude": "-87.6048333",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "74",
+			"_uuid": "691221B6-176A-455E-8FA3-593F102C305A",
+			"_position": "74",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/74",
+			"stop_id": "3024",
+			"cta_stop_name": "Kedzie & Chicago",
+			"direction": "SB",
+			"routes": "52",
+			"ward": "27",
+			"longitude": "-87.70667",
+			"latitude": "41.8951883",
+			"location": {
+				"latitude": "41.8951883",
+				"longitude": "-87.70667",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "52",
+			"_uuid": "43A9A760-D9A6-41EF-A58A-14CAA60494B1",
+			"_position": "52",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/52",
+			"stop_id": "3222",
+			"cta_stop_name": "63rd Street & King Drive (Green Line)",
+			"direction": "WB",
+			"routes": "63",
+			"ward": "20",
+			"longitude": "-87.6155133",
+			"latitude": "41.7803033",
+			"location": {
+				"latitude": "41.7803033",
+				"longitude": "-87.6155133",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "99",
+			"_uuid": "79235225-8651-4330-BB64-32CAFD9EEC37",
+			"_position": "99",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/99",
+			"stop_id": "3645",
+			"cta_stop_name": "Halsted & 111th Street",
+			"direction": "NB",
+			"routes": "8A,108",
+			"inter_modal": "Pace",
+			"ward": "34",
+			"longitude": "-87.642265",
+			"latitude": "41.692255",
+			"location": {
+				"latitude": "41.692255",
+				"longitude": "-87.642265",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "36",
+			"_uuid": "B206A9F6-1D79-47A0-ABB8-031E1CEDEE8D",
+			"_position": "36",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/36",
+			"stop_id": "4246",
+			"cta_stop_name": "California & Ogden",
+			"direction": "SB",
+			"routes": "94,157",
+			"ward": "12",
+			"longitude": "-87.6957817",
+			"latitude": "41.8607533",
+			"location": {
+				"latitude": "41.8607533",
+				"longitude": "-87.6957817",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "58",
+			"_uuid": "C44F0553-E4E4-42D3-8491-E76BC82C1583",
+			"_position": "58",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/58",
+			"stop_id": "4606",
+			"cta_stop_name": "Cicero & Archer",
+			"direction": "NB",
+			"routes": "47,54B,62",
+			"ward": "23",
+			"longitude": "-87.7428217",
+			"latitude": "41.7984267",
+			"location": {
+				"latitude": "41.7984267",
+				"longitude": "-87.7428217",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "32",
+			"_uuid": "864C2504-0B5B-4860-9CC7-377CF0FF07B3",
+			"_position": "32",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/32",
+			"stop_id": "4644",
+			"cta_stop_name": "Halsted & Archer",
+			"direction": "SB",
+			"routes": "8,N62",
+			"ward": "11",
+			"longitude": "-87.6468733",
+			"latitude": "41.8471867",
+			"location": {
+				"latitude": "41.8471867",
+				"longitude": "-87.6468733",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "50",
+			"_uuid": "E82A4B46-8031-40CA-88A9-573223301948",
+			"_position": "50",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/50",
+			"stop_id": "4694",
+			"cta_stop_name": "Pulaski & 111th Street",
+			"direction": "NB",
+			"routes": "53A",
+			"ward": "19",
+			"longitude": "-87.720275",
+			"latitude": "41.69119",
+			"location": {
+				"latitude": "41.69119",
+				"longitude": "-87.720275",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "47",
+			"_uuid": "65A4CC87-E27A-4404-91F5-3199F6F75770",
+			"_position": "47",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/47",
+			"stop_id": "4704",
+			"cta_stop_name": "Pulaski & 79th Street",
+			"direction": "NB",
+			"routes": "53A",
+			"ward": "18",
+			"longitude": "-87.72177",
+			"latitude": "41.7494517",
+			"location": {
+				"latitude": "41.7494517",
+				"longitude": "-87.72177",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "37",
+			"_uuid": "F0A4A7F3-BB54-45DC-9BB3-1057BC96F47E",
+			"_position": "37",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/37",
+			"stop_id": "4731",
+			"cta_stop_name": "Pulaski & 75th Place",
+			"direction": "SB",
+			"routes": "53A,67",
+			"ward": "13",
+			"longitude": "-87.7222933",
+			"latitude": "41.7569217",
+			"location": {
+				"latitude": "41.7569217",
+				"longitude": "-87.7222933",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "110",
+			"_uuid": "77FD4E52-278C-4DE6-8F39-F8D2C9B1D794",
+			"_position": "110",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/110",
+			"stop_id": "4764",
+			"cta_stop_name": "Foster & Pulaski",
+			"direction": "EB",
+			"routes": "92",
+			"ward": "39",
+			"longitude": "-87.7284617",
+			"latitude": "41.9753617",
+			"location": {
+				"latitude": "41.9753617",
+				"longitude": "-87.7284617",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "137",
+			"_uuid": "7016C729-30C2-42AB-B6B2-249CD0438149",
+			"_position": "137",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/137",
+			"stop_id": "4867",
+			"cta_stop_name": "Lake Shore Drive & Belmont",
+			"direction": "SB",
+			"routes": "135,145,146",
+			"ward": "44",
+			"longitude": "-87.6390533",
+			"latitude": "41.9404832",
+			"location": {
+				"latitude": "41.9404832",
+				"longitude": "-87.6390533",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "153",
+			"_uuid": "C9CA9AB2-41D2-4768-8733-08C64FDC8457",
+			"_position": "153",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/153",
+			"stop_id": "4975",
+			"cta_stop_name": "LaSalle & Randolph (City Hall)",
+			"direction": "NB",
+			"routes": "134,135,136,156",
+			"ward": "42",
+			"longitude": "87.632319",
+			"latitude": "41.8843079",
+			"location": {
+				"latitude": "41.8843079",
+				"longitude": "-87.632319",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "9",
+			"_uuid": "DA5DBE1A-BD16-4DE2-9FF0-924455E25ED7",
+			"_position": "9",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/9",
+			"stop_id": "4992",
+			"cta_stop_name": "Clinton & Quincy",
+			"direction": "SB",
+			"routes": "7,60,124,125,126,129,130,157",
+			"inter_modal": "Metra",
+			"ward": "2",
+			"longitude": "-87.6411479",
+			"latitude": "41.8788053",
+			"location": {
+				"latitude": "41.8788053",
+				"longitude": "-87.6411479",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "10",
+			"_uuid": "8A89818E-0611-4754-9F46-8E40A58323B5",
+			"_position": "10",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/10",
+			"stop_id": "5009",
+			"cta_stop_name": "Canal & Adams",
+			"direction": "NB",
+			"routes": "60,124,125,128,132,157,192",
+			"inter_modal": "Metra",
+			"ward": "2",
+			"longitude": "-87.6396422",
+			"latitude": "41.8790189",
+			"location": {
+				"latitude": "41.8790189",
+				"longitude": "-87.6396422",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "127",
+			"_uuid": "72307553-0AF3-408F-AB28-2E2C1B4DEA84",
+			"_position": "127",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/127",
+			"stop_id": "5024",
+			"cta_stop_name": "Clinton & Madison",
+			"direction": "SB",
+			"routes": "14,125,130,132,129,100",
+			"inter_modal": "Metra",
+			"ward": "42",
+			"longitude": "-87.641295",
+			"latitude": "41.881925",
+			"location": {
+				"latitude": "41.881925",
+				"longitude": "-87.641295",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "18",
+			"_uuid": "AA37B500-2E7B-4402-ADC0-F20AC9F51F49",
+			"_position": "18",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/18",
+			"stop_id": "5037",
+			"cta_stop_name": "Lake Park & E. Hyde Park Blvd",
+			"direction": "NB",
+			"routes": "2,6,28,X28",
+			"inter_modal": "Metra",
+			"ward": "4",
+			"longitude": "-87.5879363",
+			"latitude": "41.8029137",
+			"location": {
+				"latitude": "41.8029137",
+				"longitude": "-87.5879363",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "20",
+			"_uuid": "F49DF3C9-C10B-4BE0-813A-0718E16B78B5",
+			"_position": "20",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/20",
+			"stop_id": "5315",
+			"cta_stop_name": "67th Street & Cornell Drive",
+			"direction": "WB",
+			"routes": "N5,6,15,67",
+			"ward": "5",
+			"longitude": "-87.5854892",
+			"latitude": "41.7734083",
+			"location": {
+				"latitude": "41.7734083",
+				"longitude": "-87.5854892",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "156",
+			"_uuid": "9BD3F87C-D4F1-4FBE-9735-08A005B69451",
+			"_position": "156",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/156",
+			"stop_id": "5338",
+			"cta_stop_name": "Broadway & Ridge/Bryn Mawr",
+			"direction": "SB",
+			"routes": "36",
+			"ward": "48",
+			"longitude": "-87.660186",
+			"latitude": "41.98387",
+			"location": {
+				"latitude": "-87.660186",
+				"longitude": "41.98387",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "97",
+			"_uuid": "14770F54-F4AA-4F81-9339-EC2BC4BBAB49",
+			"_position": "97",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/97",
+			"stop_id": "5702",
+			"cta_stop_name": "Irving Park & Kimball",
+			"direction": "WB",
+			"routes": "80",
+			"ward": "33",
+			"longitude": "-87.7126783",
+			"latitude": "41.953935",
+			"location": {
+				"latitude": "41.953935",
+				"longitude": "-87.7126783",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "144",
+			"_uuid": "42C3B231-D9B4-4DC7-A1F8-C78F47E7061F",
+			"_position": "144",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/144",
+			"stop_id": "5995",
+			"cta_stop_name": "Ashland & Irving Park",
+			"direction": "SB",
+			"routes": "9",
+			"ward": "47",
+			"longitude": "-87.6691267",
+			"latitude": "41.9539833",
+			"location": {
+				"latitude": "41.9539833",
+				"longitude": "-87.6691267",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "96",
+			"_uuid": "D94CE22B-F0F2-43AF-BB26-51D68B7EF0CF",
+			"_position": "96",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/96",
+			"stop_id": "6016",
+			"cta_stop_name": "Ashland & Cortland",
+			"direction": "SB",
+			"routes": "9",
+			"inter_modal": "Metra",
+			"ward": "32",
+			"longitude": "-87.6679033",
+			"latitude": "41.9161933",
+			"location": {
+				"latitude": "41.9161933",
+				"longitude": "-87.6679033",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "1",
+			"_uuid": "0680A40E-CFBA-4EBD-89F7-7B7814D46905",
+			"_position": "1",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/1",
+			"stop_id": "6024",
+			"cta_stop_name": "Ashland & Division (Blue Line)",
+			"direction": "SB",
+			"routes": "9",
+			"ward": "1",
+			"longitude": "-87.6675217",
+			"latitude": "41.90347",
+			"location": {
+				"latitude": "41.90347",
+				"longitude": "-87.6675217",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "67",
+			"_uuid": "25B8631D-22F4-4765-BDF9-29FAC5C3FEBC",
+			"_position": "67",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/67",
+			"stop_id": "6032",
+			"cta_stop_name": "Ashland & Grand",
+			"direction": "SB",
+			"routes": "9",
+			"ward": "26",
+			"longitude": "-87.667155",
+			"latitude": "41.891215",
+			"location": {
+				"latitude": "41.891215",
+				"longitude": "-87.667155",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "75",
+			"_uuid": "B04552F0-D1FD-4F90-AD32-9850B01461B2",
+			"_position": "75",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/75",
+			"stop_id": "6035",
+			"cta_stop_name": "Ashland & Lake (Green & Pink Lines)",
+			"direction": "SB",
+			"routes": "9",
+			"ward": "27",
+			"longitude": "-87.6669017",
+			"latitude": "41.8848333",
+			"location": {
+				"latitude": "41.8848333",
+				"longitude": "-87.6669017",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "46",
+			"_uuid": "3A0BCEA2-8190-4DAC-B7B8-6FC52987E256",
+			"_position": "46",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/46",
+			"stop_id": "6114",
+			"cta_stop_name": "Ashland & 79th Street",
+			"direction": "SB",
+			"routes": "9",
+			"ward": "17",
+			"longitude": "-87.663515",
+			"latitude": "41.7504767",
+			"location": {
+				"latitude": "41.7504767",
+				"longitude": "-87.663515",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "54",
+			"_uuid": "4BE3F02A-BA31-4E7C-B9EB-40A0A6C26CFA",
+			"_position": "54",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/54",
+			"stop_id": "6155",
+			"cta_stop_name": "Ashland & 87th Street",
+			"direction": "NB",
+			"routes": "9",
+			"ward": "21",
+			"longitude": "-87.662975",
+			"latitude": "41.735615",
+			"location": {
+				"latitude": "41.735615",
+				"longitude": "-87.662975",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "45",
+			"_uuid": "D1FE2870-252E-4D68-B46E-F687A679DBA4",
+			"_position": "45",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/45",
+			"stop_id": "6168",
+			"cta_stop_name": "Ashland & 74th Street",
+			"direction": "NB",
+			"routes": "9",
+			"ward": "17",
+			"longitude": "-87.6635483",
+			"latitude": "41.759345",
+			"location": {
+				"latitude": "41.759345",
+				"longitude": "-87.6635483",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "33",
+			"_uuid": "BF44D8D5-181F-452F-9B24-36610EDABEA5",
+			"_position": "33",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/33",
+			"stop_id": "6209",
+			"cta_stop_name": "Ashland & 35th Street",
+			"direction": "NB",
+			"routes": "9",
+			"ward": "11",
+			"longitude": "-87.6654867",
+			"latitude": "41.8304017",
+			"location": {
+				"latitude": "41.8304017",
+				"longitude": "-87.6654867",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "56",
+			"_uuid": "5B2AFF4C-9073-4943-A695-A3E304063A92",
+			"_position": "56",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/56",
+			"stop_id": "6305",
+			"cta_stop_name": "26th Street & Kildare",
+			"direction": "EB",
+			"routes": "60",
+			"ward": "22",
+			"longitude": "-87.7319267",
+			"latitude": "41.8440883",
+			"location": {
+				"latitude": "41.8440883",
+				"longitude": "-87.7319267",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "55",
+			"_uuid": "FFBB47EE-0FC5-4644-9FF9-82C4CDFD4D4A",
+			"_position": "55",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/55",
+			"stop_id": "6308",
+			"cta_stop_name": "26th Street & Pulaski",
+			"direction": "EB",
+			"routes": "60",
+			"ward": "22",
+			"longitude": "-87.7246783",
+			"latitude": "41.8442233",
+			"location": {
+				"latitude": "41.8442233",
+				"longitude": "-87.7246783",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "62",
+			"_uuid": "F5FD0C04-463D-4D01-8B56-5832B513AE80",
+			"_position": "62",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/62",
+			"stop_id": "6681",
+			"cta_stop_name": "Western & Roosevelt",
+			"direction": "NB",
+			"routes": "49,157",
+			"ward": "25",
+			"longitude": "-87.6859117",
+			"latitude": "41.866555",
+			"location": {
+				"latitude": "41.866555",
+				"longitude": "-87.6859117",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "34",
+			"_uuid": "D5B43F0C-967F-45B4-A525-27D2069D3A3E",
+			"_position": "34",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/34",
+			"stop_id": "8155",
+			"cta_stop_name": "47th Street & Western Avenue",
+			"direction": "EB",
+			"routes": "47,94",
+			"ward": "12",
+			"longitude": "-87.6845283",
+			"latitude": "41.80838",
+			"location": {
+				"latitude": "41.80838",
+				"longitude": "-87.6845283",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "39",
+			"_uuid": "455C94DD-42CA-4E16-9CC8-B6A34EEA3FA1",
+			"_position": "39",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/39",
+			"stop_id": "8283",
+			"cta_stop_name": "Western & 55th Street/Garfield",
+			"direction": "SB",
+			"routes": "49",
+			"ward": "14",
+			"longitude": "-87.68421",
+			"latitude": "41.79386",
+			"location": {
+				"latitude": "41.79386",
+				"longitude": "-87.68421",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "42",
+			"_uuid": "41AFFA21-680B-4A2B-B689-97628D9AA469",
+			"_position": "42",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/42",
+			"stop_id": "8323",
+			"cta_stop_name": "Western & 63rd Street",
+			"direction": "NB",
+			"routes": "49",
+			"ward": "15",
+			"longitude": "-87.68359",
+			"latitude": "41.7790633",
+			"location": {
+				"latitude": "41.7790633",
+				"longitude": "-87.68359",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "64",
+			"_uuid": "13CA7AB3-BC93-4521-999B-BD8D9F1A2C1A",
+			"_position": "64",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/64",
+			"stop_id": "8360",
+			"cta_stop_name": "Western & Cermak",
+			"direction": "NB",
+			"routes": "49",
+			"ward": "25",
+			"longitude": "-87.685625",
+			"latitude": "41.85194",
+			"location": {
+				"latitude": "41.85194",
+				"longitude": "-87.685625",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "5",
+			"_uuid": "BF5C9AED-D791-4D7B-ABE3-60959C92A60A",
+			"_position": "5",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/5",
+			"stop_id": "8388",
+			"cta_stop_name": "Western & Chicago",
+			"direction": "NB",
+			"routes": "49",
+			"ward": "1",
+			"longitude": "-87.6868167",
+			"latitude": "41.8956183",
+			"location": {
+				"latitude": "41.8956183",
+				"longitude": "-87.6868167",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "114",
+			"_uuid": "29714AD1-7222-4B0E-AF1F-F554A4EA5B2A",
+			"_position": "114",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/114",
+			"stop_id": "8539",
+			"cta_stop_name": "Harlem & Foster",
+			"direction": "SB",
+			"routes": "64,90",
+			"ward": "41",
+			"longitude": "-87.8071708",
+			"latitude": "41.9746542",
+			"location": {
+				"latitude": "41.9746542",
+				"longitude": "-87.8071708",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "91",
+			"_uuid": "16A6F411-DFDB-4221-A59F-506F14E84903",
+			"_position": "91",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/91",
+			"stop_id": "9017",
+			"cta_stop_name": "Pulaski & North Avenue",
+			"direction": "SB",
+			"routes": "53",
+			"ward": "30",
+			"longitude": "-87.7265383",
+			"latitude": "41.9094617",
+			"location": {
+				"latitude": "41.9094617",
+				"longitude": "-87.7265383",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "30",
+			"_uuid": "1FEDE3DF-5651-49C2-AA50-7AB35526189C",
+			"_position": "30",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/30",
+			"stop_id": "9453",
+			"cta_stop_name": "91st Street & Commercial",
+			"direction": "WB",
+			"routes": "26, 87",
+			"ward": "10",
+			"longitude": "-87.5508761",
+			"latitude": "41.7301422",
+			"location": {
+				"latitude": "41.7301422",
+				"longitude": "-87.5508761",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "49",
+			"_uuid": "EC958863-E040-4A70-8896-8997561FA8AE",
+			"_position": "49",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/49",
+			"stop_id": "9511",
+			"cta_stop_name": "87th Street & Western",
+			"direction": "WB",
+			"routes": "87",
+			"ward": "18",
+			"longitude": "-87.6823033",
+			"latitude": "41.7356633",
+			"location": {
+				"latitude": "41.7356633",
+				"longitude": "-87.6823033",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "90",
+			"_uuid": "BAF8564E-90A5-48EC-9A5E-3D22DDAEDCE7",
+			"_position": "90",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/90",
+			"stop_id": "9620",
+			"cta_stop_name": "Austin & Railroad Ave (Blue Line)",
+			"direction": "NB",
+			"routes": "91",
+			"ward": "29",
+			"longitude": "-87.7742217",
+			"latitude": "41.8702667",
+			"location": {
+				"latitude": "41.8702667",
+				"longitude": "-87.7742217",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "140",
+			"_uuid": "1A7103B7-63CA-454F-85D2-0A50C9817FB5",
+			"_position": "140",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/140",
+			"stop_id": "9798",
+			"cta_stop_name": "Gale & Milwaukee",
+			"direction": "SWB",
+			"routes": "85,88",
+			"ward": "45",
+			"longitude": "-87.76354",
+			"latitude": "41.970505",
+			"location": {
+				"latitude": "41.970505",
+				"longitude": "-87.76354",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "105",
+			"_uuid": "29D6F508-E953-4C01-A3EE-C6E79864D6B3",
+			"_position": "105",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/105",
+			"stop_id": "10228",
+			"cta_stop_name": "Cicero & North Avenue",
+			"direction": "SB",
+			"routes": "54",
+			"ward": "37",
+			"longitude": "-87.7462467",
+			"latitude": "41.9093033",
+			"location": {
+				"latitude": "41.9093033",
+				"longitude": "-87.7462467",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "85",
+			"_uuid": "EEE1A6C7-6377-42F3-86FF-EFFC898563F5",
+			"_position": "85",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/85",
+			"stop_id": "10292",
+			"cta_stop_name": "Cicero & Madison",
+			"direction": "NB",
+			"routes": "54",
+			"ward": "28",
+			"longitude": "-87.7451817",
+			"latitude": "41.8803117",
+			"location": {
+				"latitude": "41.8803117",
+				"longitude": "-87.7451817",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "107",
+			"_uuid": "FB4A85E9-EAFD-4AF5-B7B9-5F67E448E408",
+			"_position": "107",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/107",
+			"stop_id": "10492",
+			"cta_stop_name": "Irving Park & Cicero/Milwaukee",
+			"direction": "EB",
+			"routes": "54A,80",
+			"ward": "38",
+			"longitude": "-87.746565",
+			"latitude": "41.9533867",
+			"location": {
+				"latitude": "41.9533867",
+				"longitude": "-87.746565",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "57",
+			"_uuid": "8730D806-CFD0-4C88-B925-1801016CF7A5",
+			"_position": "57",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/57",
+			"stop_id": "10502",
+			"cta_stop_name": "55th Street & Pulaski",
+			"direction": "EB",
+			"routes": "55",
+			"ward": "23",
+			"longitude": "-87.7226917",
+			"latitude": "41.7932417",
+			"location": {
+				"latitude": "41.7932417",
+				"longitude": "-87.7226917",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "154",
+			"_uuid": "D5F5114A-1173-461F-85C0-78C212B59DCA",
+			"_position": "154",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/154",
+			"stop_id": "10519",
+			"cta_stop_name": "55th & Western",
+			"direction": "EB",
+			"routes": "55",
+			"ward": "16",
+			"longitude": "-87.68431949",
+			"latitude": "41.79377472",
+			"location": {
+				"latitude": "41.79377472",
+				"longitude": "-87.632319",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "44",
+			"_uuid": "C514CB09-7C32-4672-BC05-CD5537170483",
+			"_position": "44",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/44",
+			"stop_id": "10528",
+			"cta_stop_name": "Garfield & Ashland",
+			"direction": "EB",
+			"routes": "55",
+			"ward": "16",
+			"longitude": "-87.6640083",
+			"latitude": "41.7937017",
+			"location": {
+				"latitude": "41.7937017",
+				"longitude": "-87.6640083",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "16",
+			"_uuid": "63ABF198-9165-4C5D-A7D9-DF060043EFD4",
+			"_position": "16",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/16",
+			"stop_id": "10536",
+			"cta_stop_name": "Garfield & Halsted",
+			"direction": "EB",
+			"routes": "55",
+			"ward": "3",
+			"longitude": "-87.64457",
+			"latitude": "41.79398",
+			"location": {
+				"latitude": "41.79398",
+				"longitude": "-87.64457",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "24",
+			"_uuid": "95D0256B-B77A-4546-886E-6C5043D03201",
+			"_position": "24",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/24",
+			"stop_id": "10854",
+			"cta_stop_name": "75th Street & Exchange",
+			"direction": "WB",
+			"routes": "N5,71,75",
+			"inter_modal": "Metra",
+			"ward": "7",
+			"longitude": "-87.5599783",
+			"latitude": "41.75929",
+			"location": {
+				"latitude": "41.75929",
+				"longitude": "-87.5599783",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "104",
+			"_uuid": "AA7ED945-A7EA-47BA-9CE8-EE8E03FDB890",
+			"_position": "104",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/104",
+			"stop_id": "10973",
+			"cta_stop_name": "Diversey & Narragansett",
+			"direction": "EB",
+			"routes": "76",
+			"ward": "36",
+			"longitude": "-87.7858567",
+			"latitude": "41.9310067",
+			"location": {
+				"latitude": "41.9310067",
+				"longitude": "-87.7858567",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "109",
+			"_uuid": "0B703E0A-7E7A-409C-8275-CC1488D16520",
+			"_position": "109",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/109",
+			"stop_id": "11123",
+			"cta_stop_name": "Kimball & Foster",
+			"direction": "SB",
+			"routes": "82,93",
+			"ward": "39",
+			"longitude": "-87.7136633",
+			"latitude": "41.9754083",
+			"location": {
+				"latitude": "41.9754083",
+				"longitude": "-87.7136633",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "101",
+			"_uuid": "CDE16675-2A76-42D0-AC93-75F6F842EDFA",
+			"_position": "101",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/101",
+			"stop_id": "11267",
+			"cta_stop_name": "Kimball & Diversey/Milwaukee",
+			"direction": "NB",
+			"routes": "82",
+			"ward": "35",
+			"longitude": "-87.7122333",
+			"latitude": "41.9324217",
+			"location": {
+				"latitude": "41.9324217",
+				"longitude": "-87.7122333",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "139",
+			"_uuid": "44E3DF60-AAE8-4DC5-9C72-2BA058102364",
+			"_position": "139",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/139",
+			"stop_id": "11324",
+			"cta_stop_name": "Montrose & Cicero",
+			"direction": "EB",
+			"routes": "54,78",
+			"inter_modal": "Metra",
+			"ward": "45",
+			"longitude": "-87.747805",
+			"latitude": "41.9601583",
+			"location": {
+				"latitude": "41.9601583",
+				"longitude": "-87.747805",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "86",
+			"_uuid": "AF09C017-3477-4A30-A410-C94A9D272E4C",
+			"_position": "86",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/86",
+			"stop_id": "11583",
+			"cta_stop_name": "Central & Corcoran (Green Line)",
+			"direction": "NB",
+			"routes": "85",
+			"ward": "28",
+			"longitude": "-87.7650817",
+			"latitude": "41.8871217",
+			"location": {
+				"latitude": "41.8871217",
+				"longitude": "-87.7650817",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "113",
+			"_uuid": "D881A2FD-4246-4122-8777-5DA93B94D82B",
+			"_position": "113",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/113",
+			"stop_id": "11667",
+			"cta_stop_name": "Touhy & Lehigh",
+			"direction": "EB",
+			"routes": "85A",
+			"inter_modal": "Pace",
+			"ward": "41",
+			"longitude": "-87.7736333",
+			"latitude": "42.0119567",
+			"location": {
+				"latitude": "42.0119567",
+				"longitude": "-87.7736333",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "150",
+			"_uuid": "BC369362-9F0E-4F33-9FA6-25AB0F082825",
+			"_position": "150",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/150",
+			"stop_id": "11877",
+			"cta_stop_name": "California & Devon",
+			"direction": "SB",
+			"routes": "93",
+			"ward": "50",
+			"longitude": "-87.6997867",
+			"latitude": "41.997685",
+			"location": {
+				"latitude": "41.997685",
+				"longitude": "-87.6997867",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "102",
+			"_uuid": "AC2917A0-1D20-4DF7-89C3-787AEC97C07F",
+			"_position": "102",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/102",
+			"stop_id": "12515",
+			"cta_stop_name": "Addison Blue Line Station",
+			"direction": "EB",
+			"routes": "152",
+			"ward": "35",
+			"longitude": "-87.7178117",
+			"latitude": "41.946465",
+			"location": {
+				"latitude": "41.946465",
+				"longitude": "-87.7178117",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "61",
+			"_uuid": "A77BED35-CC97-4295-B35E-13E5E773A035",
+			"_position": "61",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/61",
+			"stop_id": "14459",
+			"cta_stop_name": "Roosevelt & Halsted",
+			"direction": "EB",
+			"routes": "12,18",
+			"ward": "25",
+			"longitude": "-87.6464283",
+			"latitude": "41.8670867",
+			"location": {
+				"latitude": "41.8670867",
+				"longitude": "-87.6464283",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "12",
+			"_uuid": "92DCF49D-1FDB-47EC-B524-0D6C97F069D6",
+			"_position": "12",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/12",
+			"stop_id": "14485",
+			"cta_stop_name": "Michigan & Congress",
+			"direction": "NB",
+			"routes": "1,3,4,6,14,26,X28,129",
+			"inter_modal": "Metra",
+			"ward": "2",
+			"longitude": "-87.6241837",
+			"latitude": "41.8755302",
+			"location": {
+				"latitude": "41.8755302",
+				"longitude": "-87.6241837",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "120",
+			"_uuid": "171B5826-0FEC-4C6B-A0F3-4398CCF6AD8F",
+			"_position": "120",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/120",
+			"stop_id": "14488",
+			"cta_stop_name": "Michigan & Superior",
+			"direction": "SB",
+			"routes": "3,10,26,33,125,143,144,145,146,147,148,151",
+			"ward": "42",
+			"longitude": "-87.6242717",
+			"latitude": "41.8958083",
+			"location": {
+				"latitude": "41.8958083",
+				"longitude": "-87.6242717",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "100",
+			"_uuid": "A8348949-25F9-4E60-8F46-39A1A1B23339",
+			"_position": "100",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/100",
+			"stop_id": "14497",
+			"cta_stop_name": "Halsted & 103rd Street",
+			"direction": "NB",
+			"routes": "8A,108",
+			"inter_modal": "Pace",
+			"ward": "34",
+			"longitude": "-87.6427733",
+			"latitude": "41.707315",
+			"location": {
+				"latitude": "41.707315",
+				"longitude": "-87.6427733",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "40",
+			"_uuid": "81D23FA8-C765-4C8A-BB47-F529FF7BA312",
+			"_position": "40",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/40",
+			"stop_id": "14502",
+			"cta_stop_name": "47th Street & Pulaski",
+			"direction": "EB",
+			"routes": "47",
+			"ward": "14",
+			"longitude": "-87.7232",
+			"latitude": "41.8078717",
+			"location": {
+				"latitude": "41.8078717",
+				"longitude": "-87.7232",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "71",
+			"_uuid": "93F02FF3-C90B-46F1-A98B-82E57D03378E",
+			"_position": "71",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/71",
+			"stop_id": "14522",
+			"cta_stop_name": "Chicago & Kedzie",
+			"direction": "WB",
+			"routes": "66",
+			"ward": "27",
+			"longitude": "-87.7064317",
+			"latitude": "41.8955867",
+			"location": {
+				"latitude": "41.8955867",
+				"longitude": "-87.7064317",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "111",
+			"_uuid": "B00112EC-31BB-45CD-A161-CC6FD8C40C7C",
+			"_position": "111",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/111",
+			"stop_id": "14529",
+			"cta_stop_name": "Western & Berwyn",
+			"direction": "SB",
+			"routes": "49,49B",
+			"ward": "40",
+			"longitude": "-87.689345",
+			"latitude": "41.9774267",
+			"location": {
+				"latitude": "41.9774267",
+				"longitude": "-87.689345",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "108",
+			"_uuid": "1C1349EF-1B9A-4D3A-B9F5-C4184BDAB757",
+			"_position": "108",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/108",
+			"stop_id": "14550",
+			"cta_stop_name": "Irving Park & Central",
+			"direction": "EB",
+			"routes": "80",
+			"ward": "38",
+			"longitude": "-87.7668822",
+			"latitude": "41.9531768",
+			"location": {
+				"latitude": "41.9531768",
+				"longitude": "-87.7668822",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "63",
+			"_uuid": "D3794C40-3AA8-4B90-8C24-ECEDB9230142",
+			"_position": "63",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/63",
+			"stop_id": "14555",
+			"cta_stop_name": "Western & Cermak",
+			"direction": "SB",
+			"routes": "49",
+			"ward": "25",
+			"longitude": "-87.6857683",
+			"latitude": "41.8517167",
+			"location": {
+				"latitude": "41.8517167",
+				"longitude": "-87.6857683",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "98",
+			"_uuid": "3466ED49-6D61-4119-9DB2-1B35AA5730F5",
+			"_position": "98",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/98",
+			"stop_id": "14558",
+			"cta_stop_name": "Irving Park & Kedzie",
+			"direction": "EB",
+			"routes": "80",
+			"ward": "33",
+			"longitude": "-87.7073217",
+			"latitude": "41.9538717",
+			"location": {
+				"latitude": "41.9538717",
+				"longitude": "-87.7073217",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "14",
+			"_uuid": "8C54100C-6A03-43A8-B357-C55AC95E85CF",
+			"_position": "14",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/14",
+			"stop_id": "14559",
+			"cta_stop_name": "McCormick Place",
+			"direction": "NB",
+			"routes": "3,21,129",
+			"ward": "2",
+			"longitude": "-87.6188758",
+			"latitude": "41.8513433",
+			"location": {
+				"latitude": "41.8513433",
+				"longitude": "-87.6188758",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "143",
+			"_uuid": "4F2302FC-5E48-4377-8AB4-0015225B9FED",
+			"_position": "143",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/143",
+			"stop_id": "14592",
+			"cta_stop_name": "Western & Lawrence",
+			"direction": "NB",
+			"routes": "11,49,49B",
+			"ward": "47",
+			"longitude": "-87.68882",
+			"latitude": "41.9690317",
+			"location": {
+				"latitude": "41.9690317",
+				"longitude": "-87.68882",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "78",
+			"_uuid": "97F8407D-70BD-4F85-802D-2A37788A3668",
+			"_position": "78",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/78",
+			"stop_id": "14627",
+			"cta_stop_name": "Pulaski & Chicago",
+			"direction": "SB",
+			"routes": "53,N66",
+			"ward": "28",
+			"longitude": "-87.7261008",
+			"latitude": "41.8950692",
+			"location": {
+				"latitude": "41.8950692",
+				"longitude": "-87.7261008",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "93",
+			"_uuid": "119C4D2D-5172-42DA-835B-BCB04777FEE7",
+			"_position": "93",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/93",
+			"stop_id": "14771",
+			"cta_stop_name": "Cicero & Belmont",
+			"direction": "SB",
+			"routes": "54",
+			"ward": "31",
+			"longitude": "-87.7469617",
+			"latitude": "41.938485",
+			"location": {
+				"latitude": "41.938485",
+				"longitude": "-87.7469617",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "77",
+			"_uuid": "DB73C9FC-E319-4390-B6F9-C50D1771CEB9",
+			"_position": "77",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/77",
+			"stop_id": "14774",
+			"cta_stop_name": "Grand & Milwaukee (Blue Line)",
+			"direction": "WB",
+			"routes": "65",
+			"ward": "27",
+			"longitude": "-87.6481933",
+			"latitude": "41.8912317",
+			"location": {
+				"latitude": "41.8912317",
+				"longitude": "-87.6481933",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "133",
+			"_uuid": "CEE5B765-5373-496A-8AFE-1DB4D45BE75D",
+			"_position": "133",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/133",
+			"stop_id": "14775",
+			"cta_stop_name": "Illinois & State",
+			"direction": "EB",
+			"routes": "29,65",
+			"ward": "42",
+			"longitude": "-87.6277024",
+			"latitude": "41.8907825",
+			"location": {
+				"latitude": "41.8907825",
+				"longitude": "-87.6277024",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "73",
+			"_uuid": "8A0ECACB-1DC9-4581-B064-B7ED5ACD3820",
+			"_position": "73",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/73",
+			"stop_id": "14783",
+			"cta_stop_name": "Ashland & Lake (Green Line)",
+			"direction": "NB",
+			"routes": "9",
+			"ward": "27",
+			"longitude": "-87.66679",
+			"latitude": "41.8850883",
+			"location": {
+				"latitude": "41.8850883",
+				"longitude": "-87.66679",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "66",
+			"_uuid": "11AF4552-5A32-4A74-B094-A75A0D2C62EE",
+			"_position": "66",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/66",
+			"stop_id": "14832",
+			"cta_stop_name": "North Avenue & Kimball/Homan",
+			"direction": "WB",
+			"routes": "72",
+			"ward": "26",
+			"longitude": "-87.71209",
+			"latitude": "41.9101617",
+			"location": {
+				"latitude": "41.9101617",
+				"longitude": "-87.71209",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "83",
+			"_uuid": "6894BC03-335D-48C2-B04B-EFC72D6257ED",
+			"_position": "83",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/83",
+			"stop_id": "14840",
+			"cta_stop_name": "Madison & Kedzie",
+			"direction": "WB",
+			"routes": "20",
+			"ward": "28",
+			"longitude": "-87.7062083",
+			"latitude": "41.8810425",
+			"location": {
+				"latitude": "41.8810425",
+				"longitude": "-87.7062083",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "89",
+			"_uuid": "FA351C60-9911-4573-9707-88D75F6E405C",
+			"_position": "89",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/89",
+			"stop_id": "14844",
+			"cta_stop_name": "Central & Madison",
+			"direction": "NB",
+			"routes": "85",
+			"ward": "29",
+			"longitude": "-87.7648433",
+			"latitude": "41.8807",
+			"location": {
+				"latitude": "41.8807",
+				"longitude": "-87.7648433",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "95",
+			"_uuid": "30C017AD-91B2-4288-8106-B3BAE217AC0B",
+			"_position": "95",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/95",
+			"stop_id": "14912",
+			"cta_stop_name": "Belmont & Lincoln",
+			"direction": "EB",
+			"routes": "77",
+			"ward": "32",
+			"longitude": "-87.66803",
+			"latitude": "41.939725",
+			"location": {
+				"latitude": "41.939725",
+				"longitude": "-87.66803",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "31",
+			"_uuid": "B7A7B7B8-816C-4084-A948-C83AA0B49D87",
+			"_position": "31",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/31",
+			"stop_id": "14943",
+			"cta_stop_name": "Ewing & 106th Street",
+			"direction": "NB",
+			"routes": "30",
+			"ward": "10",
+			"longitude": "-87.535135",
+			"latitude": "41.7029367",
+			"location": {
+				"latitude": "41.7029367",
+				"longitude": "-87.535135",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "28",
+			"_uuid": "913CC040-C7D9-4C0B-AC00-C095687E55A2",
+			"_position": "28",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/28",
+			"stop_id": "14950",
+			"cta_stop_name": "Michigan & 111th Street",
+			"direction": "NB",
+			"routes": "34,119",
+			"ward": "9",
+			"longitude": "-87.621045",
+			"latitude": "41.6928833",
+			"location": {
+				"latitude": "41.6928833",
+				"longitude": "-87.621045",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "59",
+			"_uuid": "4A8F0583-E240-4A44-B09C-439A1D553F3F",
+			"_position": "59",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/59",
+			"stop_id": "14954",
+			"cta_stop_name": "Roosevelt & Pulaski",
+			"direction": "EB",
+			"routes": "12",
+			"ward": "24",
+			"longitude": "-87.7249317",
+			"latitude": "41.8661417",
+			"location": {
+				"latitude": "41.8661417",
+				"longitude": "-87.7249317",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "88",
+			"_uuid": "69868FEB-C832-4630-BE4C-B6FB730B4A34",
+			"_position": "88",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/88",
+			"stop_id": "14956",
+			"cta_stop_name": "Madison & Central",
+			"direction": "EB",
+			"routes": "20",
+			"ward": "29",
+			"longitude": "-87.764255",
+			"latitude": "41.8801367",
+			"location": {
+				"latitude": "41.8801367",
+				"longitude": "-87.764255",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "82",
+			"_uuid": "88100B81-D4B7-4A98-8214-AB977958D0C6",
+			"_position": "82",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/82",
+			"stop_id": "14959",
+			"cta_stop_name": "Madison & Cicero",
+			"direction": "EB",
+			"routes": "20",
+			"ward": "28",
+			"longitude": "-87.7448633",
+			"latitude": "41.8803833",
+			"location": {
+				"latitude": "41.8803833",
+				"longitude": "-87.7448633",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "35",
+			"_uuid": "EBBCC26D-89B1-4850-B58E-F666E9A20157",
+			"_position": "35",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/35",
+			"stop_id": "14969",
+			"cta_stop_name": "26th Street & Kedzie",
+			"direction": "WB",
+			"routes": "60",
+			"ward": "12",
+			"longitude": "-87.705525",
+			"latitude": "41.844525",
+			"location": {
+				"latitude": "41.844525",
+				"longitude": "-87.705525",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "94",
+			"_uuid": "A009242A-2A4E-48AB-9CD4-BF804671189F",
+			"_position": "94",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/94",
+			"stop_id": "14974",
+			"cta_stop_name": "Cicero & Fullerton",
+			"direction": "SB",
+			"routes": "54",
+			"ward": "31",
+			"longitude": "-87.7464533",
+			"latitude": "41.92395",
+			"location": {
+				"latitude": "41.92395",
+				"longitude": "-87.7464533",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "87",
+			"_uuid": "86F8B7D3-A659-4B5A-8C21-F629B074925A",
+			"_position": "87",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/87",
+			"stop_id": "14982",
+			"cta_stop_name": "Roosevelt & California",
+			"direction": "EB",
+			"routes": "12",
+			"ward": "28",
+			"longitude": "-87.6956383",
+			"latitude": "41.86646",
+			"location": {
+				"latitude": "41.86646",
+				"longitude": "-87.6956383",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "106",
+			"_uuid": "EE37742F-EAB4-4EEB-B6C3-6D97B650E22D",
+			"_position": "106",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/106",
+			"stop_id": "15011",
+			"cta_stop_name": "North Avenue & Central",
+			"direction": "EB",
+			"routes": "72",
+			"ward": "37",
+			"longitude": "-87.76532",
+			"latitude": "41.9093267",
+			"location": {
+				"latitude": "41.9093267",
+				"longitude": "-87.76532",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "53",
+			"_uuid": "D3035971-09DE-4F36-8002-1F4889E6129D",
+			"_position": "53",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/53",
+			"stop_id": "15026",
+			"cta_stop_name": "95th Street & Halsted",
+			"direction": "EB",
+			"routes": "N9,95W,112",
+			"inter_modal": "Pace",
+			"ward": "21",
+			"longitude": "-87.6426383",
+			"latitude": "41.7214167",
+			"location": {
+				"latitude": "41.7214167",
+				"longitude": "-87.6426383",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "79",
+			"_uuid": "5E06DCB2-4DB3-42B0-B703-7583B24C08CC",
+			"_position": "79",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/79",
+			"stop_id": "15136",
+			"cta_stop_name": "Madison & Pulaski",
+			"direction": "WB",
+			"routes": "20",
+			"ward": "28",
+			"longitude": "-87.7260283",
+			"latitude": "41.880725",
+			"location": {
+				"latitude": "41.880725",
+				"longitude": "-87.7260283",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "41",
+			"_uuid": "C557F269-5F34-4EFE-9779-28FB70D97D80",
+			"_position": "41",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/41",
+			"stop_id": "15210",
+			"cta_stop_name": "63rd Street & Western",
+			"direction": "EB",
+			"routes": "63",
+			"ward": "15",
+			"longitude": "-87.68313",
+			"latitude": "41.779135",
+			"location": {
+				"latitude": "41.779135",
+				"longitude": "-87.68313",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "13",
+			"_uuid": "7CE65675-DBE6-44E7-A01E-AE8C531E00E0",
+			"_position": "13",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/13",
+			"stop_id": "15426",
+			"cta_stop_name": "Soldier Field & Field Museum",
+			"direction": "WB",
+			"routes": "128,130,146",
+			"ward": "2",
+			"longitude": "-87.61491",
+			"latitude": "41.8651233",
+			"location": {
+				"latitude": "41.8651233",
+				"longitude": "-87.61491",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "43",
+			"_uuid": "89959995-15FC-4DD7-BFA8-66158E75C579",
+			"_position": "43",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/43",
+			"stop_id": "15875",
+			"cta_stop_name": "Halsted & 63rd Street (Green Line)",
+			"direction": "SB",
+			"routes": "8",
+			"ward": "20",
+			"longitude": "-87.6448717",
+			"latitude": "41.7794517",
+			"location": {
+				"latitude": "41.7794517",
+				"longitude": "-87.6448717",
+				"needs_recoding": "false"
+			}
+		},
+		{
+			"_id": "155",
+			"_uuid": "8EF4C37C-3A80-45E6-9B3B-433663F754B4",
+			"_position": "155",
+			"_address": "http://data.cityofchicago.org/resource/mw4h-s8xu/155",
+			"stop_id": "17309",
+			"cta_stop_name": "Western & 111th St",
+			"direction": "EB",
+			"routes": "112",
+			"ward": "19",
+			"longitude": "-87.6816575",
+			"latitude": "41.69170578",
+			"location": {
+				"latitude": "41.69170578",
+				"longitude": "-87.6816575",
+				"needs_recoding": "false"
+			}
+		}
+	]
+}
